@@ -1,2 +1,2 @@
 # Sistema_Beca
-Sistema para mejorar los procesos internos del salo de belleza Beca
+Sistema para mejorar los procesos internos del salon de belleza Beca
